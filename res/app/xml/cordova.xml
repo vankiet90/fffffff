@@ -1,0 +1,8 @@
+<?xml version="1.0" endcoding="utf-8"?>
+<cordova>
+    <access origin="http://192.168.10.227:8888*"/>
+    <access origin="http://127.0.0.1:8888*"/>
+    <access origin="http://jdcreative.vn/clients/eric/*"/>
+ 
+    <log level="DEBUG"/>
+</cordova>
